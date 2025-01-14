@@ -9,8 +9,9 @@ class Config:
     """Configuration variables"""
 
     # Data locations
-    ANNOTATIONS_PATH = environ.get("ANNOTATIONS_PATH")
+    ANNOTATIONS_YOLO_PATH = environ.get("ANNOTATIONS_YOLO_PATH")
+    ANNOTATIONS_COCO_PATH = environ.get("ANNOTATIONS_COCO_PATH")
     MODELS_PATH=environ.get("MODELS_PATH")
     VIDEO_PATH = environ.get("VIDEO_PATH")
-
+    WORK_DIR = environ.get("WORK_DIR")
 
