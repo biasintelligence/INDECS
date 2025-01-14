@@ -38,5 +38,4 @@ By combining YOLO object detection with this peak detection and filtering proces
 
 [^1]: "You Only Look Once," *Wikipedia*, Wikimedia Foundation, October 2024,  https://en.wikipedia.org/wiki/You_Only_Look_Once.
 [^2]: Bochkovskiy, A., Wang, C.-Y., & Liao, H.-Y. M. (2020). *YOLOv4: Optimal Speed and Accuracy of Object Detection*. Retrieved from [https://arxiv.org/abs/2004.10934](https://arxiv.org/abs/2004.10934)
-
 [^3]: YOLOv4 GitHub Repository: [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
