@@ -1,14 +1,9 @@
-name: indecs
+name: indecs_yolov4
 channels:
-  - pytorch
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.9
-  - pip
-  - opencv
-  - pandas
-  - numpy
-  - scipy
+  - python=3.8
   - python-dotenv
- 
+  - numpy
+  - opencv
+  - huggingface_hub
